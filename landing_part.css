@@ -196,6 +196,9 @@ section .sec3 {
   justify-content: center;
   align-items: center;
   text-align: center;
+  padding: 3rem 0;
+  margin: 1rem 0;
+  color: #183153;
 }
 
 section .sec3 .sec3_content_head h5{
@@ -205,7 +208,7 @@ section .sec3 .sec3_content_head h5{
     line-height: 35px;
     letter-spacing: 0em;
     padding: 1rem 0;
-    color: #0D1B2E;
+    color: #183153;
 }
 
 section .sec3 .sec3_content_subscribe{
@@ -214,7 +217,7 @@ section .sec3 .sec3_content_subscribe{
     background: #183153;
     border-radius: 8px;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: space-around;
     align-items: center;
 
